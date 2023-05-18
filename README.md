@@ -9,3 +9,5 @@ To customize your goats, swap out `\assets\minecraft\optifine\random\entity\goat
 Tested in Java 1.19.4 with Optifine HD U I4
 
 In Github, click on Code > Download Zip to download the pack.
+
+Also recommended: https://faithfulpack.net/addons/GoatHornsPlus
